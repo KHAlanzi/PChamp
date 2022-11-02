@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1025621834841",
+    "project_id": "pchampauth",
+    "storage_bucket": "pchampauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025621834841:android:6fa04bd80b999be5c4c548",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025621834841-hb4erp7o2nr56cj7b7rpudocptptu2nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.first_app",
+            "certificate_hash": "b8c8d76f395b0c8bbe311e08cbe9f80d9425e5c8"
+          }
+        },
+        {
+          "client_id": "1025621834841-ha8d0qpqaa9vgf20k992qon5c6chrqpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADx5jxoUcRebYfC7exqIswbNI-VRQZIF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025621834841-ha8d0qpqaa9vgf20k992qon5c6chrqpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
